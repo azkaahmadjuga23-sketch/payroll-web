@@ -4,7 +4,5 @@
       "version": "8.4"
     }
   },
-  "packages": {
-    "re2c": "latest"
-  }
+  "aptPackages": ["re2c"]
 }
